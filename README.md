@@ -1,4 +1,4 @@
-<h1>✈✈✈ABOUT-ME 🐱‍🏍 🚀🚀🚀</h1>
+<h1>✈✈✈ABOUT-ME 🚀🚀🚀</h1>
 
 <p>Greetings, I am Bhie 😁. Recently, I embarked on a new journey, transitioning my career towards the captivating world of coding. My fascination with programming was ignited while working with VBA language, which I utilized to automate repetitive tasks in my professional environment.</p>
 
