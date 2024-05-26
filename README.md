@@ -5,7 +5,7 @@
 <p>I hold degrees in Engineering and Data Analytics, and I am currently immersing myself in the comprehensive study of Full-Stack Development. The thrill of seeing my code execute flawlessly and yield the anticipated results is a feeling of satisfaction I continually strive for. Welcome to my GitHub page.</p>
 
 Skills:
-Leadership
+<li>Leadership</li>
 Advanced Excel (automation using fomulas, power query, VBA)
 Power BI
 Postgresql
