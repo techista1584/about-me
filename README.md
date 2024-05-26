@@ -6,13 +6,13 @@
 
 Skills:
 <li>Leadership</li>
-Advanced Excel (automation using fomulas, power query, VBA)
-Power BI
-Postgresql
-Microsoft Lists
-Sharepoint sites
-Power Automate
-Javascript
-React JS
-Node JS
-Full Stack Web Development
+<li>Advanced Excel (automation using fomulas, power query, VBA)</li>
+<li>Power BI</li>
+<li>Postgresql</li>
+<li>Microsoft Lists</li>
+<li>Sharepoint sites</li>
+<li>Power Automate</li>
+<li>Javascript</li>
+<li>React JS</li>
+<li>Node JS</li>
+<li>Full Stack Web Development</li>
