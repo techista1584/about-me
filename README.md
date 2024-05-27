@@ -15,4 +15,6 @@ Skills:
 <li>Javascript</li>
 <li>React JS</li>
 <li>Node JS</li>
+<li>MongoDB</li>
+<li>Postman</li>
 <li>Full Stack Web Development</li>
